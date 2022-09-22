@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\DYL\AppData\Local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\DYL\AppData\Local\JetBrains\Rider2020.1\resharper-host\Local\Transient\ReSharperHost\v201\SolutionCaches\_MomoEngine.794619115.00" t="ExcludeRecursive" />
+    <e p="D:\WorkProject\MomoFrame(1)\MomoEngine\MomoEngine" t="IncludeFlat">
+      <e p="MomoEngine.Core" t="IncludeRecursive">
+        <e p="Asset" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Configs" t="Include">
+          <e p="Deployment" t="Include" />
+          <e p="Development" t="Include" />
+        </e>
+        <e p="MomoEngine.Core.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="x64" t="Include">
+            <e p="Debug" t="Include">
+              <e p="net6.0" t="Include">
+                <e p="MomoEngine.Core.AssemblyInfo.cs" t="Include" />
+                <e p="MomoEngine.Core.GlobalUsings.g.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Source" t="Include">
+          <e p="Runtime" t="Include">
+            <e p="Behaviour" t="Include">
+              <e p="Behaviour.cs" t="Include" />
+              <e p="BehaviourBase.cs" t="Include" />
+              <e p="BehaviourObject.cs" t="Include" />
+            </e>
+            <e p="Core" t="Include">
+              <e p="Debug" t="Include">
+                <e p="EDebug.cs" t="Include" />
+              </e>
+              <e p="Log" t="Include">
+                <e p="LogConfig.cs" t="Include" />
+                <e p="PELog.cs" t="Include" />
+              </e>
+              <e p="Meta" t="Include" />
+            </e>
+            <e p="Coroutine" t="Include">
+              <e p="Coroutine.cs" t="Include" />
+              <e p="CoroutineEngine.cs" t="Include" />
+              <e p="WaitForFrame.cs" t="Include" />
+              <e p="WaitForSeconds.cs" t="Include" />
+              <e p="WaitStop.cs" t="Include" />
+              <e p="WaitUntil.cs" t="Include" />
+            </e>
+            <e p="Engine.cs" t="Include" />
+            <e p="Function" t="Include" />
+            <e p="Resource" t="Include" />
+            <e p="Time.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="MomoEngine.sln" t="IncludeFlat" />
+      <e p="MomoEngineConsole" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Debug" t="Include">
+          <e p="Debug.cs" t="Include" />
+        </e>
+        <e p="EngineTest.cs" t="Include" />
+        <e p="MomoEngineConsole.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="x64" t="Include">
+            <e p="Debug" t="Include">
+              <e p="net6.0" t="Include">
+                <e p="MomoEngineConsole.AssemblyInfo.cs" t="Include" />
+                <e p="MomoEngineConsole.GlobalUsings.g.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Test.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

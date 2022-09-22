@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MomoEngineConsole/1.0.0": {
+        "dependencies": {
+          "MomoEngine.Core": "1.0.0"
+        },
+        "runtime": {
+          "MomoEngineConsole.dll": {}
+        }
+      },
+      "MomoEngine.Core/1.0.0": {
+        "runtime": {
+          "MomoEngine.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MomoEngineConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MomoEngine.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
